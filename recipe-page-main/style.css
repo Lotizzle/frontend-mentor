@@ -1,0 +1,17 @@
+body { 
+    font-family: Arial, sans-serif;
+    background-color: hsl(330, 100%, 98%);
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
