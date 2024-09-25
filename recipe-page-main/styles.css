@@ -20,6 +20,51 @@ h1 {
     margin-bottom: 10px;
 }
 
+.image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.prep-time, .nutrition h3 {
+    background-color: #f7eefc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.prep-time h3, .nutrition h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.prep-time p, .nutrition p {
+    margin: 5px 0;
+}
+
+.ingredients, .instructions {
+    margin-top: 20px;
+}
+
+.ingredients ul, .instructions ol {
+    padding-left: 10px;
+}
+
+.ingredients ul li, .instructions ol li {
+    margin-bottom: 10px;
+}
+
+.nutrition table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.nutrition th, .nutrition td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
