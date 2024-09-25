@@ -25,14 +25,14 @@ h1 {
     border-radius: 10px;
 }
 
-.prep-time, .nutrition h3 {
+.prep-time, .nutrition h2 {
     background-color: #f7eefc;
     padding: 10px;
     border-radius: 5px;
     margin-top: 10px;
 }
 
-.prep-time h3, .nutrition h3 {
+.prep-time h2, .nutrition h2 {
     margin: 0;
     font-size: 1.2rem;
 }
