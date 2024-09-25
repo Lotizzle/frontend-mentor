@@ -43,6 +43,7 @@ h1 {
 
 .ingredients, .instructions {
     margin-top: 20px;
+    color: rosybrown
 }
 
 .ingredients ul, .instructions ol {
@@ -51,6 +52,7 @@ h1 {
 
 .ingredients ul li, .instructions ol li {
     margin-bottom: 10px;
+    color: rosybrown
 }
 
 .nutrition table {
@@ -63,6 +65,10 @@ h1 {
     padding: 8px;
     border: 1px solid #ddd;
     text-align: center;
+}
+
+.nutrition td {
+    color: rosybrown
 }
 
 .attribution {
