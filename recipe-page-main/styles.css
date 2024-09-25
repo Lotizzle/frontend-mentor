@@ -1,6 +1,6 @@
 body { 
     font-family: Arial, sans-serif;
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(330, 5%, 15%);
     color: #333;
     margin: 0;
     padding: 20px;
@@ -31,17 +31,21 @@ h2 {
 
 .prep-time {
     background-color: #f7eefc;
+
     padding: 10px;
     border-radius: 5px;
     margin-top: 10px;
 }
 
-.prep-time h2, .nutrition h2 {
+.prep-time li, .prep-time h3 {
+    color: purple;
+}
+.prep-time h3, .nutrition h2 {
     margin: 0;
     font-size: 1.2rem;
 }
 
-.prep-time p, .nutrition p {
+.nutrition p {
     margin: 5px 0;
 }
 
