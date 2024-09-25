@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: rgba(91, 74, 74, 0.815)
+    color: rgba(105, 80, 80, 0.925)
 }
 
 .image img {
@@ -29,7 +29,7 @@ h2 {
     border-radius: 10px;
 }
 
-.prep-time, .nutrition h2 {
+.prep-time {
     background-color: #f7eefc;
     padding: 10px;
     border-radius: 5px;
