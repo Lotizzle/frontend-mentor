@@ -1,13 +1,13 @@
 body { 
     font-family: Arial, sans-serif;
-    background-color: hsl(330, 5%, 15%);
+    background-color: hsl(330, 100%, 98%);
     color: #333;
     margin: 0;
     padding: 20px;
 }
 
 .container {
-    max-width: 800px;
+    max-width: auto;
     margin: 0 auto;
     background-color: white;
     padding: 20px;
@@ -31,7 +31,6 @@ h2 {
 
 .prep-time {
     background-color: #f7eefc;
-
     padding: 10px;
     border-radius: 5px;
     margin-top: 10px;
