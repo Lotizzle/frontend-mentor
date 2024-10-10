@@ -35,7 +35,23 @@ body {
     margin-top: 1.4rem;
 }
 
-.paragragh
+.paragragh,
+.ingredients,
+.instructions,
+.instructions li span,
+.prep-time,
+.prep-time li span,
+.nutrition {
+    color: var(--Wenge-Brown);
+}
+
+.container {
+    background-color: var(--White-color);
+    padding: 2.2rem;
+    margin: auto;
+    max-width: 48rem;
+    border-radius: 0.7rem;
+}
 
 .attribution {
     font-size: 11px;
